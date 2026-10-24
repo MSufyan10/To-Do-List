@@ -28,19 +28,19 @@ button{
 }
 
 .deletebutton{
-    border-color: hsl(10, 90%, 50%);
+    background-color: hsl(10, 90%, 50%);
 }
 
 .deletebutton:hover{
-    border-color: hsl(10, 90%, 40%);
+    background-color: hsl(10, 90%, 40%);
 }
 
 .movebutton{
-    border-color: hsl(207, 90%, 64%);
+    background-color: hsl(207, 90%, 64%);
 }
 
 .movebutton:hover{
-    border-color: hsl(207, 90%, 54%);
+    background-color: hsl(207, 90%, 54%);
 }
 
 .input [type="text"]{
